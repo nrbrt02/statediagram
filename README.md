@@ -1,5 +1,5 @@
 # Traffic Light System for Four-Way Intersection
-
+![Traffic right system](statediagram.drawio.png)
 This traffic light system controls the flow of traffic at a four-way intersection with lights managing the following directions:
 - **East-West Light**
 - **West-East Light**
